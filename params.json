@@ -1,7 +1,7 @@
 {
   "particles": {
     "density": 200,
-    "color": "#fff",
+    "color": "#FF5532",
     "size": {
       "value": 2,
       "random": true
