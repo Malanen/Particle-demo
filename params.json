@@ -3,14 +3,14 @@
     "density": 150,
     "color": "#FF5532",
     "size": {
-      "value": 2,
+      "value": 3,
       "random": true
     },
     "movement": {
-      "speed": 1,
+      "speed": 0.5,
       "restless": {
-        "enabled": false,
-        "value": 10
+        "enabled": true,
+        "value": 25
       }
     },
     "interactivity": {
@@ -34,19 +34,19 @@
       "is_external": true
     },
     "size": {
-      "canvas_pct": 60,
+      "canvas_pct": 80,
       "min_px": 150,
-      "max_px": 800
+      "max_px": 1200
     }
   },
   "interactions": {
     "repulse": {
-      "distance": 100,
-      "strength": 200
+      "distance": 50,
+      "strength": 100
     },
     "big_repulse": {
-      "distance": 100,
-      "strength": 500
+      "distance": 300,
+      "strength": 1000
     },
     "grab": {
       "distance": 100,
