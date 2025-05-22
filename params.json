@@ -19,7 +19,7 @@
         "action": "repulse"
       },
       "on_click": {
-        "enabled": false,
+        "enabled": true,
         "action": "big_repulse"
       },
       "on_touch": {
