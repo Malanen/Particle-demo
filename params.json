@@ -3,11 +3,11 @@
     "density": 150,
     "color": "#FF5532",
     "size": {
-      "value": 3,
+      "value": 1,
       "random": true
     },
     "movement": {
-      "speed": 0.5,
+      "speed": 1,
       "restless": {
         "enabled": true,
         "value": 25
@@ -41,12 +41,12 @@
   },
   "interactions": {
     "repulse": {
-      "distance": 50,
-      "strength": 100
+      "distance": 100,
+      "strength": 200
     },
     "big_repulse": {
-      "distance": 300,
-      "strength": 1000
+      "distance": 200,
+      "strength": 600
     },
     "grab": {
       "distance": 100,
