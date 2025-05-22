@@ -1,6 +1,6 @@
 {
   "particles": {
-    "density": 101,
+    "density": 50,
     "color": "#fff",
     "size": {
       "value": 2,
@@ -9,7 +9,7 @@
     "movement": {
       "speed": 1,
       "restless": {
-        "enabled": true,
+        "enabled": false,
         "value": 10
       }
     },
