@@ -1,15 +1,15 @@
 {
   "particles": {
-    "density": 100,
+    "density": 200,
     "color": "#fff",
     "size": {
-      "value": 2,
-      "random": true
+      "value": 1,
+      "random": false
     },
     "movement": {
-      "speed": 10,
+      "speed": 1,
       "restless": {
-        "enabled": true,
+        "enabled": false,
         "value": 10
       }
     },
@@ -19,7 +19,7 @@
         "action": "repulse"
       },
       "on_click": {
-        "enabled": true,
+        "enabled": false,
         "action": "big_repulse"
       },
       "on_touch": {
