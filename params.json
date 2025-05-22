@@ -29,8 +29,8 @@
     }
   },
   "image": {
-    "src": {
-      "path": "https://raw.githubusercontent.com/paxtonfitzpatrick/particle-image/master/codepen-logo-demo.png",
+    "src": { 
+      "path": "https://raw.githubusercontent.com/Malanen/Particle-demo/refs/heads/main/print-black.png",
       "is_external": true
     },
     "size": {
